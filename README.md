@@ -30,6 +30,7 @@ deactivate
 ```python
 pip freeze > requirements.txt
 ```
+5. Создание прогарммы;
 
 
 
