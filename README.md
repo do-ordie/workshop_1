@@ -31,7 +31,12 @@ deactivate
 pip freeze > requirements.txt
 ```
 5. Создание прогарммы;
+```python
+mkdir maim.py
+```
 
+
+> Литература: 1. [Чистая Архитектура для веб-приложений](https://habr.com/ru/articles/493430/) 2. [curl — учимся тестировать API](https://testengineer.ru/curl-uchimsya-testirovat-api/)
 
 
 
